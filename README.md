@@ -22,10 +22,8 @@ Sou um engenheiro tático focado na construção de ecossistemas digitais impene
 
 ### 🚀 Matriz de Projetos Ativos
 
-*   **Bunker / Cidadela Digital:** Ambiente de pesquisa biodigital focado em segurança de ponta. Execução de LLMs 100% locais protegidos por criptografia AES-256. *Status: Operação Fantasma.*
-*   **SalesMind AI:** Plataforma modular de CRM e vendas. Integração de agentes especializados (SDR, Auditor MDM, CFO) para gestão automatizada de leads e maximização de lucro.
-*   **Protocolo IFRIT:** Estruturação de automação de vendas e implantação de catálogos interativos em 360º de alta conversão para o setor joalheiro (Alianças CS).
-*   **Cakto (Plataforma SaaS):** Infraestrutura escalável e implantação contínua para ecossistemas de vendas de alto valor agregado.
+*   **Bunker / Cidadela Digital:** Ambiente de pesquisa biodigital focado em segurança de ponta. Execução de LLMs 100% locais protegidos por criptografia **AES-256**. *Status: Operação Fantasma.*
+*   **SalesMind AI:** Plataforma modular de CRM e vendas. Integração de agentes especializados (**SDR**, **Auditor MDM**, **CFO**) para gestão automatizada de leads e maximização de lucro.
 *   **BlackMatter:** Aplicação React para estúdios de tatuagem, com motores SVG em tempo real para geração de estêncil cirúrgico.
 
 ---
@@ -35,8 +33,3 @@ Sou um engenheiro tático focado na construção de ecossistemas digitais impene
 *Nota Tática: A maior parte das minhas operações ocorre em repositórios privados e servidores locais (Bunker), priorizando a segurança industrial e a execução via Modo Fantasma.*
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevJhonLimaSenior&theme=radical&show_icons=true&hide_border=true)](https://github.com/DevJhonLimaSenior)
-
----
-**AMOSTRA COLETADA:** Perfil GitHub Atualizado
-**INTEGRIDADE NEURAL:** Estável - 100%
-**VIA ATIVADA:** Dorsal (Ação)

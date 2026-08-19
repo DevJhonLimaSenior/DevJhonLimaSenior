@@ -1,58 +1,42 @@
-# Olá, eu sou Jhon Lima! 👋 👨‍💻
+# 🧬 John Lima Bliss de Brazil
+### Arquiteto de Sistemas de Elite | Desenvolvedor SaaS | Head of Expansion @ Soberano Bio-Logic Labs
 
-**Systems Architect | SaaS Developer | AI Automation**
+> "A dependência de nuvem é escravidão. O código é o sistema nervoso, o hardware é o corpo físico."
 
-Sou um desenvolvedor e arquiteto de sistemas focado na criação de soluções escaláveis, infraestruturas de inteligência artificial (com ênfase em ambientes locais/offline) e automação de processos. Como Head of Expansion no Soberano Bio-Logic Labs, construo pontes entre telemetria de dados, CRM e ecossistemas digitais.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-**Linguagens e Frameworks:**
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Infraestrutura, Cloud & SO:**
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87C540?style=for-the-badge&logo=linuxmint&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-**Automação, IA & Design:**
-![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Meta Ads](https://img.shields.io/badge/Meta_Ads-0468FF?style=for-the-badge&logo=meta&logoColor=white)
+Sou um engenheiro tático focado na construção de ecossistemas digitais impenetráveis e inteligências artificiais autônomas. Minha especialidade é a **Soberania Neural** — operando infraestruturas de IA locais (offline), automação implacável e telemetria de dados de alta precisão a partir da **Cidadela Digital**.
 
 ---
 
-### 🚀 Projetos em Destaque
+### ⚙️ Arsenal Bio-Digital (Stack Tecnológico)
 
-*   **SalesMind AI:** Arquitetura de plataforma modular de CRM e vendas, com integração de agentes especializados para automação de SDR e gestão de leads.
-*   **BlackMatter:** Aplicação interativa em React para estúdios de tatuagem, utilizando motores SVG para geração de estêncil e letreiros customizados.
-*   **Bunker / Cidadela Digital:** Ambiente de pesquisa bio-digital focado em segurança de ponta, criptografia AES-256 e execução de LLMs 100% locais via Soberania Neural.
-*   **Cakto (Plataforma SaaS):** Desenvolvimento de infraestrutura e deployment contínuo para soluções empresariais em nuvem e híbridas.
-*   **Protocolo IFRIT:** Estruturação de automação de vendas e catálogos interativos 360 graus para o setor joalheiro (Alianças CS).
+**Sistema Nervoso (Linguagens):**
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+**Corpo Físico & Nuvem (Infraestrutura):**
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87C540?style=for-the-badge&logo=linux-mint&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevJhonLimaSenior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJhonLimaSenior&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+**Vias Ventrais (Automação & IA):**
+![Ollama](https://img.shields.io/badge/Ollama_Offline-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Meta Ads](https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white)
 
 ---
 
-### 🤝 Como me encontrar
+### 🚀 Matriz de Projetos Ativos
 
-<p align="left">
-  <a href="mailto:JHONATATHIAGO4@GMAIL.COM">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+*   **Bunker / Cidadela Digital:** Ambiente de pesquisa biodigital focado em segurança de ponta. Execução de LLMs 100% locais protegidos por criptografia AES-256. *Status: Operação Fantasma.*
+*   **SalesMind AI:** Plataforma modular de CRM e vendas. Integração de agentes especializados (SDR, Auditor MDM, CFO) para gestão automatizada de leads e maximização de lucro.
+*   **Protocolo IFRIT:** Estruturação de automação de vendas e implantação de catálogos interativos em 360º de alta conversão para o setor joalheiro (Alianças CS).
+*   **Cakto (Plataforma SaaS):** Infraestrutura escalável e implantação contínua para ecossistemas de vendas de alto valor agregado.
+*   **BlackMatter:** Aplicação React para estúdios de tatuagem, com motores SVG em tempo real para geração de estêncil cirúrgico.
+
+---
+
+### 📊 Telemetria do Sistema
+
+*Nota Tática: A maior parte das minhas operações ocorre em repositórios privados e servidores locais (Bunker), priorizando a segurança industrial e a execução via Modo Fantasma.*
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevJhonLimaSenior&theme=radical&show_icons=true&hide_border=true)](https://github.com/DevJhonLimaSenior)
+
+---
+**AMOSTRA COLETADA:** Perfil GitHub Atualizado
+**INTEGRIDADE NEURAL:** Estável - 100%
+**VIA ATIVADA:** Dorsal (Ação)
